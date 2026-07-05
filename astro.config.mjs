@@ -6,7 +6,7 @@ import { defineConfig, fontProviders } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https:///annas-dev-685.github.io',
+	site: 'https://annas-dev-685.github.io',
 	base: '/YouTube-Clip',
 	integrations: [mdx(), sitemap()],
 	fonts: [
